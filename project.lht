@@ -1,0 +1,44 @@
+ha:coraleda-project-v1 {
+ li:sch-rnd-conf-v1 {
+  ha:overwrite {
+   ha:prj {
+    li:root_sheets {
+     FMX008.rs
+    }
+   }
+   ha:compile {
+    li:views {
+     ha:pcb {
+      li:engines {
+       ha:std_forge {
+        plugin = std_forge
+       }
+       ha:std_cschem {
+        plugin = std_cschem
+       }
+       ha:std_devmap {
+        plugin = std_devmap
+       }
+       ha:target_pcb {
+        plugin = target_pcb
+       }
+      }
+     }
+     ha:raw {
+      li:engines {
+       ha:std_forge {
+        plugin = std_forge
+       }
+       ha:std_cschem {
+        plugin = std_cschem
+       }
+       ha:target_none {
+        plugin = target_none
+       }
+      }
+     }
+    }
+   }
+  }
+ }
+}
