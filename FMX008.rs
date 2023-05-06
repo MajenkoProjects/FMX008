@@ -4281,7 +4281,7 @@ FlashFile™ MEMORY}
 					ha:text.2 { x1=232000; y1=472000; dyntext=1; stroke=wire; text=%../A.name%; floater=1; }
 				}
 				ha:attrib {
-					name=net18
+					name=CS_BANK_4
 					ha:role = { value=wire-net; prio=0; }
 				}
 			}
@@ -4293,7 +4293,7 @@ FlashFile™ MEMORY}
 					ha:text.2 { x1=232000; y1=352000; dyntext=1; stroke=wire; text=%../A.name%; floater=1; }
 				}
 				ha:attrib {
-					name=net17
+					name=CS_BANK_3
 					ha:role = { value=wire-net; prio=0; }
 				}
 			}
@@ -4305,7 +4305,7 @@ FlashFile™ MEMORY}
 					ha:text.2 { x1=232000; y1=232000; dyntext=1; stroke=wire; text=%../A.name%; floater=1; }
 				}
 				ha:attrib {
-					name=net16
+					name=CS_BANK_2
 					ha:role = { value=wire-net; prio=0; }
 				}
 			}
@@ -4317,7 +4317,7 @@ FlashFile™ MEMORY}
 					ha:text.2 { x1=232000; y1=112000; dyntext=1; stroke=wire; text=%../A.name%; floater=1; }
 				}
 				ha:attrib {
-					name=net15
+					name=CS_BANK_1
 					ha:role = { value=wire-net; prio=0; }
 				}
 			}
@@ -7120,7 +7120,7 @@ FlashFile™ MEMORY}
 					ha:text.2 { x1=308000; y1=560000; dyntext=1; stroke=wire; text=%../A.name%; floater=1; }
 				}
 				ha:attrib {
-					name=net18
+					name=CS_BANK_4
 					ha:role = { value=wire-net; prio=0; }
 				}
 			}
@@ -7132,7 +7132,7 @@ FlashFile™ MEMORY}
 					ha:text.2 { x1=308000; y1=556000; dyntext=1; stroke=wire; text=%../A.name%; floater=1; }
 				}
 				ha:attrib {
-					name=net17
+					name=CS_BANK_3
 					ha:role = { value=wire-net; prio=0; }
 				}
 			}
@@ -7144,7 +7144,7 @@ FlashFile™ MEMORY}
 					ha:text.2 { x1=308000; y1=552000; dyntext=1; stroke=wire; text=%../A.name%; floater=1; }
 				}
 				ha:attrib {
-					name=net16
+					name=CS_BANK_2
 					ha:role = { value=wire-net; prio=0; }
 				}
 			}
@@ -7156,7 +7156,7 @@ FlashFile™ MEMORY}
 					ha:text.2 { x1=308000; y1=548000; dyntext=1; stroke=wire; text=%../A.name%; floater=1; }
 				}
 				ha:attrib {
-					name=net15
+					name=CS_BANK_1
 					ha:role = { value=wire-net; prio=0; }
 				}
 			}
