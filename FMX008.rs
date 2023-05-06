@@ -10836,6 +10836,15 @@ FlashFile™ MEMORY}
 					/2/2/4/1
 				}
 			}
+			ha:polygon.1911 {
+				li:outline {
+					ha:line { x1=0; y1=-32000; x2=0; y2=352000; }
+					ha:line { x1=0; y1=352000; x2=488000; y2=352000; }
+					ha:line { x1=488000; y1=352000; x2=488000; y2=-32000; }
+					ha:line { x1=488000; y1=-32000; x2=0; y2=-32000; }
+				}
+				stroke=sheet-decor;
+			}
 		}
 		ha:attrib {
 			drawing_min_height=200000
